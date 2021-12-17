@@ -22,5 +22,8 @@ Hybrid variables with 6400 ≤ Teff ≤ 10000K and amplitudes greater than 0.10 
 
 In addition, we also considered candidates from KASOC database. 
 
-Finally, we obtained a catalog of 1874 δ Scuti and Hybrid variables by summarizing
+Finally, we obtained a catalog (Version 1) of 1874 δ Scuti and Hybrid variables by summarizing
 and merging targets in the above papers.
+
+Catalog Version 2 contains 2261 δ Scuti and Hybrid variables after including the catalog 
+from Murphy et al. (2019). 
